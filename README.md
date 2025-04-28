@@ -34,7 +34,7 @@ Built with **Flask**, **Bootstrap 5**, **Coingecko API**, **Frankfurter API**, *
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/ad1lhasan/CryptoVisionary.git
+git clone https://github.com/aswanikrsh/CryptoVisionary.git
 cd CryptoVisionary
 ```
 
